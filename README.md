@@ -23,7 +23,7 @@ no framework, no server — it can be hosted on GitHub Pages for free.
 "Résumé" button in the hero downloads it.
 
 To swap the hero photo later, just replace `assets/img/profile.jpg` with another
-square image (about 800×800 px). If the file is ever missing, the hero falls back
+4:5 portrait image (about 800×1000 px). If the file is ever missing, the hero falls back
 to an "AK" placeholder instead of showing a broken image.
 
 ## Run it locally
